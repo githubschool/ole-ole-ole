@@ -25,6 +25,7 @@ Please take a moment to complete the class survey at: https://goo.gl/rS2hyY.
 - [git-scm](https://git-scm.com)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+- [Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
